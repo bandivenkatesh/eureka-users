@@ -25,7 +25,7 @@ server:
 eureka:
   client:
     serviceUrl:
-      defaultZone: http://34.74.188.78:8761/eureka/
+      defaultZone: http://34.74.188.78:1234/eureka/
 ---
 spring:
   config:
@@ -46,6 +46,6 @@ server:
 eureka:
   client:
     serviceUrl:
-      defaultZone: http://eureka-dev.i27carts.in/eureka/
+      defaultZone: http://34.74.188.78:1234/eureka/
   instance:
     preferIpAddress: true
