@@ -14,4 +14,3 @@ dockerPipeline(
 // changes made
 // changes again
 // changes once more
-// changes again
