@@ -2,7 +2,7 @@
 
 @Library("com.i27academy.slb@main") _
 k8sPipeline(
-    appName: 'users-eureka'
+    appName: 'users'
 )
 
 // @Library("com.i27academy.slb@main") _
