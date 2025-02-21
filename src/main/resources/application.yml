@@ -12,7 +12,7 @@ spring:
     #    password: Learner@2023
     #    url: jdbc:mysql://34.29.125.76:3306,34.68.236.8:3306/learnerCrownClothing?useSSL=FALSE
     password: root
-    url: jdbc:mysql://35.193.120.2:3306/product_managment?useSSL=FALSE
+    url: jdbc:mysql://34.56.77.60:3306/product_managment?useSSL=FALSE
     username: root
   jpa:
     hibernate:
@@ -33,7 +33,7 @@ spring:
       on-profile: dev
   datasource:
     password: bandi
-    url: jdbc:mysql://35.193.120.2:3306/learnerCrownClothing?useSSL=FALSE
+    url: jdbc:mysql://34.56.77.60:3306/learnerCrownClothing?useSSL=FALSE
     username: bandi
   jpa:
     hibernate:
@@ -56,7 +56,7 @@ spring:
       on-profile: test
   datasource:
     password: bandi
-    url: jdbc:mysql://35.193.120.2:3306/learnerCrownClothing?useSSL=FALSE
+    url: jdbc:mysql://34.56.77.60:3306/learnerCrownClothing?useSSL=FALSE
     username: bandi
   jpa:
     hibernate:
